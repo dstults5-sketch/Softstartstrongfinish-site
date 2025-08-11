@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+a { transition: opacity .15s ease; }
+a:hover { opacity: .85; }

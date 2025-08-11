@@ -5,4 +5,3 @@ export default function Home() {
       <p>Welcome to my new site. More to come soon!</p>
     </main>
   );
-}
